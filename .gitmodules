@@ -1,3 +1,6 @@
 [submodule "cppGzip"]
 	path = cppGzip
 	url = https://github.com/TimSC/cppGzip.git
+[submodule "vector-tile-spec"]
+	path = vector-tile-spec
+	url = https://github.com/mapbox/vector-tile-spec.git
